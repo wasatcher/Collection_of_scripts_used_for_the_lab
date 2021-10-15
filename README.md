@@ -1,5 +1,5 @@
 # Collection_of_scripts_used_for_the_lab
-A collection of scripts used for the lab
+A collection of scripts used for the lab rodent behavior assay result analyses
 
 This includes the simple scripts to analyze some rodent behavior assays
 
